@@ -12,11 +12,7 @@ https://user-images.githubusercontent.com/70810745/210886482-f99347f9-e26a-48f9-
 
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/ravichauhan0407/monty-hall-problem-simulation.git
-```
 
 Go to the project directory
 
